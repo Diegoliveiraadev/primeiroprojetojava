@@ -17,7 +17,7 @@ public class Condicional {
         } else {
             System.out.println("Não inclui no plano");
 
-            System.out.println();
+            System.out.println("testeeee");
         }
     }
 }
