@@ -14,10 +14,8 @@ public class Condicional {
 
         if (incluidoNoPlano == true && tipoPlano.equals("Plus")) {
             System.out.println("Acesso liberado");
-        }
-        else {
+        } else {
             System.out.println("Não inclui no plano");
-            System.out.println("Teste do gitHub");
         }
     }
 }
