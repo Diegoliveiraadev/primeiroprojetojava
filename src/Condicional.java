@@ -16,6 +16,8 @@ public class Condicional {
             System.out.println("Acesso liberado");
         } else {
             System.out.println("Não inclui no plano");
+
+            System.out.println();
         }
     }
 }
