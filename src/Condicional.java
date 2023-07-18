@@ -17,6 +17,7 @@ public class Condicional {
         }
         else {
             System.out.println("Não inclui no plano");
+            System.out.println("Teste do gitHub");
         }
     }
 }
